@@ -1,0 +1,9 @@
+Auto Avaliação Júlia
+
+Este ano eu aprendi lógica de programação, a utilizar funções e a desenvolver classes em códigos. 
+Entendi como utilizar funções, métodos, objetos e classes para tornar o código menos extenso e mais organizado.
+Além disso, aprendi à desenvolver diagramas de classe e de casos de uso.
+
+Eu melhorei em lógica de programação e no meu entendimento geral sobre programar. Já que antes nem o básico eu estava entendendo.
+
+Minha meta para 2027 é criar um site na web utilizado Python, HTML e Java.
